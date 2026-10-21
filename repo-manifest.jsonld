@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-jupyterbook-latex/commit/70c911c74e8e88e24a39e2172a20fa148ea21524",
       "git:hexsha": "70c911c74e8e88e24a39e2172a20fa148ea21524",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.0.0",
+      "repolex:parsedAt": "2026-10-21T22:12:01.097904+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-jupyterbook-latex/commit/617697adfd80bd6ebef23e1417b8241e7b22805d",
