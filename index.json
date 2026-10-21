@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "sphinx-jupyterbook-latex",
+  "versions": [
+    {
+      "commit": "70c911c74e8e88e24a39e2172a20fa148ea21524",
+      "tag": "v1.0.0",
+      "parsed_at": "2026-10-21T22:12:01.098452+00:00"
+    }
+  ]
+}
